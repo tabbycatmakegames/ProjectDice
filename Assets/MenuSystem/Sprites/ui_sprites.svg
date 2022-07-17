@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   shape-rendering="crispEdges"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="ui_sprites.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#000000"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showborder="false"
+     inkscape:zoom="0.75722503"
+     inkscape:cx="996.40129"
+     inkscape:cy="293.17573"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#000000" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#fffffd;stroke-width:64.6425"
+       id="rect843"
+       width="100"
+       height="100"
+       x="-8.8817842e-16"
+       y="-7.1054274e-15"
+       ry="0"
+       inkscape:export-filename="C:\Users\Duong Vu\Documents\Projects\ProjectWick\Assets\MenuSystem\Sprites\background.png"
+       inkscape:export-xdpi="25.4"
+       inkscape:export-ydpi="25.4" />
+    <rect
+       style="fill:#222f3e;stroke-width:61.0621;fill-opacity:1"
+       id="rect952"
+       width="150"
+       height="50"
+       x="150"
+       y="0"
+       inkscape:export-filename="button.png"
+       inkscape:export-xdpi="25.4"
+       inkscape:export-ydpi="25.4" />
+    <rect
+       style="fill:#0abde3;fill-opacity:1;stroke-width:61.0621"
+       id="rect1094"
+       width="150"
+       height="50"
+       x="150"
+       y="80"
+       inkscape:export-filename="C:\Users\Duong Vu\Documents\Projects\ProjectWick\Assets\MenuSystem\Sprites\button_pressed.png"
+       inkscape:export-xdpi="25.4"
+       inkscape:export-ydpi="25.4" />
+    <rect
+       style="fill:#0abde3;fill-opacity:1;stroke-width:33.3826"
+       id="rect1172"
+       width="14.142136"
+       height="14.142136"
+       x="254.55844"
+       y="-254.55844"
+       transform="rotate(45.000002)"
+       inkscape:export-filename="C:\Users\Duong Vu\Documents\Projects\ProjectWick\Assets\MenuSystem\Sprites\selector.png"
+       inkscape:export-xdpi="25.4"
+       inkscape:export-ydpi="25.4" />
+    <g
+       id="g1394"
+       inkscape:export-filename="C:\Users\Duong Vu\Documents\Projects\ProjectWick\Assets\MenuSystem\Sprites\cursor.png"
+       inkscape:export-xdpi="25.4"
+       inkscape:export-ydpi="25.4">
+      <rect
+         style="fill:#ffffff;fill-opacity:0;stroke-width:67.947"
+         id="rect1095"
+         width="50"
+         height="50"
+         x="400"
+         y="100" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke-width:66.7653"
+         id="rect927"
+         width="28.284271"
+         height="28.284271"
+         x="374.7666"
+         y="-226.2742"
+         transform="rotate(45.000003)"
+         inkscape:export-filename="C:\Users\Duong Vu\Documents\Projects\ProjectWick\Assets\MenuSystem\Sprites\selector.png"
+         inkscape:export-xdpi="25.4"
+         inkscape:export-ydpi="25.4" />
+    </g>
+  </g>
+</svg>
